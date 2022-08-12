@@ -8,8 +8,8 @@
 `de-project-1` после того, как вы привяжете свой 
 GitHub-аккаунт на Платформе.
 2. Скопируйте репозиторий на свой локальный компьютер:
-	* `git clone https://github.com/{{ username }}/de-project-1.git`
-	* `cd de-project-1`
+	* ```git clone https://github.com/{{ username }}/de-project-1.git```
+	* ```cd de-project-1```
 3. Выполните проект и сохраните получившийся код в локальном репозитории:
 	* `git add .`
 	* `git commit -m 'my best commit'`
