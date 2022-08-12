@@ -19,7 +19,9 @@ GitHub-аккаунт на Платформе.
 ### Как запустить контейнер
 Запустите локально команду:
 
-`docker run -d --rm -p 3030:3030 -p 3000:3000 --name=de-project-sprint-1-server-local sindb/project-sprint-1:latest`
+```
+docker run -d --rm -p 3030:3030 -p 3000:3000 --name=de-project-sprint-1-server-local sindb/project-sprint-1:latest
+```
 
 После того как запустится контейнер, у вас будут доступны:
 1. VS Code
