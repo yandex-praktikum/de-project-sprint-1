@@ -25,3 +25,10 @@ docker run -d --rm -p 15432:5432 -p 3000:3000 --name=de-project-sprint-1-server-
 После того как запустится контейнер, у вас будут доступны:
 1. VS Code
 2. PostgreSQL (запросы лучше выполнять через DBeaver)
+
+Параметры подключения:
+* host: localhost
+* port: 15432
+* user: jovyan
+* password: jovyan
+* db: de
